@@ -6,4 +6,4 @@ xhr.setRequestHeader('Authorization', 'mfa.1QRy58OiSisAtuvVgSIRr_7FAshM2wmh3f6rW
 xhr.onload = function () {
 console.log(this.responseText);
 };
-xhr.send('{"code":"783594"}');
+xhr.send('{"code":"093342"}');
